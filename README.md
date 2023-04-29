@@ -1,5 +1,7 @@
 # Lab-Assignment-4
-#Abstract
+
+##Abstract
+
 In this project, the primary objective was to improve
 the performance of the Mini-max algorithm by implementing
 alpha beta pruning in the game of noughts and crosses. The aim
@@ -18,12 +20,12 @@ spaces. It also highlights the importance of understanding the
 minimax value backup argument in analyzing game trees and
 making optimal decisions in games such as Nim.
 
-#Problem Statement
+## Problem Statement
 Implement MINIMAX and alpha-beta pruning
 agents. Report on number of evaluated nodes for Noughts
 and Crosses game tree
 
-#Conclusion
+## Conclusion
 The following are the findings:
 1. We found that the game tree for Nim has a size of almost
 one million, indicating the complexity of the game even for a
