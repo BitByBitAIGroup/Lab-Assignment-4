@@ -1,6 +1,6 @@
 # Lab-Assignment-4
 
-##Abstract
+## Abstract
 
 In this project, the primary objective was to improve
 the performance of the Mini-max algorithm by implementing
